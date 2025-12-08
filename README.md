@@ -1,6 +1,6 @@
 # Hi there, I'm Daman 👋
 
-I'm a **Cloud Engineer** specializing in Azure infrastructure, automation, and Zero Trust security. I approach the cloud like an artist approaches a canvas—structured, intentional, and always iterating.
+I'm a **Cloud Engineer** specializing in Azure infrastructure, automation, and Zero Trust security.
 
 ### 🚀 Featured Engineering Guides
 *   **[Hybrid DNS Resolution for Azure](https://ddhaliwal.me/engineer-handbook/03-hybrid-dns-resolution/)**
