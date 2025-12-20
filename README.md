@@ -3,6 +3,8 @@
 I'm a **Cloud Engineer** specializing in Azure infrastructure, automation, and Zero Trust security.
 
 ### 🚀 Featured Engineering Guides
+*   **[ClickOps to Terraform - 5 Part Series](https://ddhaliwal.me/engineering-handbook/series/terraform-essentials/)**
+    *   *Learn Infrastructure as Code from scratch. Part 1 available now—transition from manual portal work to automated, version-controlled infrastructure.*
 *   **[Hybrid DNS Resolution for Azure](https://ddhaliwal.me/engineer-handbook/03-hybrid-dns-resolution/)**
     *   *Solving the disconnect between On-Premises DNS and Azure Private Endpoints using Private DNS Resolvers.*
 *   **[Deploying a Fully Private AKS Cluster](https://ddhaliwal.me/guides/01-deploying-private-aks/)**
