@@ -26,5 +26,5 @@ I'm a **Cloud Engineer** specializing in Azure infrastructure, automation, and Z
 ---
 
 ### 🌐 Connect
-*   **Portfolio & Blog:** [ddhaliwal.me](https://ddhaliwal.me)
-*   **LinkedIn:** [Daman Dhaliwal](https://www.linkedin.com/in/damanpreet-d/)
+*   **Portfolio & Blog:** [ddhaliwal.me](https://www.ddhaliwal.me)
+*   **LinkedIn:** [Daman Dhaliwal](https://www.linkedin.com/in/daman-d/)
